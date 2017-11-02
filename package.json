@@ -1,0 +1,19 @@
+{
+  "name": "assignment_node_dictionary_reader",
+  "version": "1.0.0",
+  "description": "node dictionary reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikingeducation/assignment_node_dictionary_reader.git"
+  },
+  "author": "chrisli41@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikingeducation/assignment_node_dictionary_reader/issues"
+  },
+  "homepage": "https://github.com/vikingeducation/assignment_node_dictionary_reader#readme"
+}
